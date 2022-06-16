@@ -35,3 +35,8 @@
   
   
 </div>
+
+<p align="center"> 
+  Te vejo em breve<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
