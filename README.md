@@ -37,6 +37,6 @@
 </div>
 
 <p align="center"> 
-  Te vejo em breve<br>
+  Visitantes <br>
   <img src="https://profile-counter.glitch.me/paulohdsousa/count.svg" />
 </p>
