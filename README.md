@@ -3,13 +3,6 @@
   <p align="center">Sou Desenvolvedor WEB na <a href="https://www.ef5.com.br/"><i>F5</i></a> e <a href="https://paulohdsousa.itch.io/">desenvolvedor de jogos</a> e <a href="https://play.google.com/store/apps/developer?id=PauloHDSousa"><i>aplicativos</i></a> nas horas vagas</p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/PauloHDSousa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PauloHDSousa&count_private=true&include_all_commits=true&show_icons=true&theme=Tokyonight&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHDSousa&Tokyonight=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
 <div align="center" valign="top"><br>
   
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
